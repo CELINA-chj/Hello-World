@@ -12,8 +12,8 @@
 ---
 
 ### 🛠 Tech Stack
-💻 **Languages:** Python, C, HTML/CSS, JavaScript  
-🛠 **Tools:** Git, GitHub, VS Code, Google Colab  
+💻 **Languages:** Python, C, Java, HTML/CSS, JavaScript  
+🛠 **Tools:** Git, GitHub, VS Code, Google Colab, IntelliJ IDEA 
 
 ---
 
@@ -23,8 +23,8 @@
 ---
 
 ### 🌐 Connect with Me
-- 📧 Email: your.email@example.com  
-- 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/CELINA-chj)  
+- 📧 Email: alsxm37@gmail.com  
+- 💼 LinkedIn: [My LinkedIn](https://linkedin.com/in/CELINA-chj)  
 
 ---
 
